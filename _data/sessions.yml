@@ -1,59 +1,130 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Lunch Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Il momento migliore per fare due chiacchere con speaker e altri partecipanti"
+
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 308
+  title: "Registrazione"
+  place: "Hall"
   service: true
+  #description: "Il momento migliore per fare due chiacchere con speaker e altri partecipanti"
+
+-
+  id: 309
+  title: "Presentazione giornata"
+  place: "Hall"
+  service: true
+  #description: "Il momento migliore per fare due chiacchere con speaker e altri partecipanti"
+
+-
+  id: 310
+  title: "Ringraziamenti e saluti"
+  place: "Hall"
+  service: true
+  #description: "Il momento migliore per fare due chiacchere con speaker e altri partecipanti"
+
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
+  title: "Angular reloaded -  single page applications on steroids"
+  description: "In questo talk andremo alla scoperta di Angular 2 dalla prospettiva di uno sviluppatore abituato alla versione 1. Andremo ad analizzare le novità del linguaggio dell'architettura di un'applicazione e, last but not least, che fine farà angular 1."
+  subtype: presentation
+  speakers: [3, 4]
+  language: it
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Go For It"
+  description: "Introduzione a GoLang, il nuovo linguaggio di casa Google! Go, linguaggio statically-typed che nasce come linguaggio generalista, negli ultimi tre anni si è affermato come linguaggio ideale per i webservices. L'interesse per il linguaggio è in continua crescita, capiamo il perchè."
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [5]
+  language: it
+  complexity: "Beginner" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "From Big Data to Fast Data: Apache Spark"
+  description: "Nello scorso decennio sono nate soluzioni per affrontare l'elaborazione di grandi quantità di dati con strumenti nuovi che sfruttassero la possibilità di scalare orizzontalmente, Hadoop in primis. Oggi a questa necessità si aggiunge quella di elaborare flussi ininterrotti di dati in tempo reale e Apache Spark è uno cluster computing framework alternativo a MapReduce che mira a dare gli strumenti per rendere facile questo compito. In questo talk introdurremo Spark e il suo ecosistema, con qualche breve esempio. Il talk è introduttivo ma qualche principio di programmazione funzionale e su Hadoop faciliteranno senz’altro la comprensione dei temi trattati."
   subtype: presentation
-  speakers: [4]
-  language: en
+  speakers: [6]
+  language: it
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
+  title: "Google Cast: Extend your app to the big screen"
+  description: "Che cos’è Google Cast? Perché usarlo? Come usarlo? Il talk è un’introduzione alla tecnologia Cast, con alcune linee guida e consigli. Vedremo poi un semplice esempio su come integrare Google Cast all’interno di un’applicazione Android esistente."
+  subtype: presentation
+  speakers: [7]
   language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Kotin: lo Swift di Android"
+  description: "Introduzione a Kotlin, un linguaggio moderno, sviluppato da JetBrains (quelli che hanno sviluppato l'IDE su cui è basato Android Studio) che rispetto a Java risulta essere più conciso, versatile e con una migliore gestione degli errori. Il codice è al 100% interoperabile con Java, e può essere usato per scrivere applicazioni native Android o piccoli moduli."
+  subtype: presentation
+  speakers: [8]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 006
+  title: "My phone is slow, your website should not"
+  description: "I siti web sono sempre più pesanti e complessi, ma la velocità di connessione e i processori non reggono il passo, specialmente su mobile. Vedremo come il browser esegue il rendering iniziale di una pagina web e come questo processo può essere ottimizzato."
+  subtype: presentation
+  speakers: [9]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 007
+  title: "Un Backend REST sui server Google App Engine"
+  description: "Breve introduzione al mondo di Google App Engine, ed una rapida spiegazione per far sviluppare, in breve tempo, un semplice backend REST che possa fornire un ottimo appoggio alle nostre applicazioni Web, Native oppure Ibride."
+  subtype: presentation
+  speakers: [10]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 008
+  title: "DroydSeuss: un sistema di monitoraggio per mobile banking trojan."
+  subtype: presentation
+  speakers: [11]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 009
+  title: "Binding data with Android Databinding"
+  description: "Il databinding in Android è una delle novità più calde del Google IO. In questo talk vedremo come possiamo sfruttarlo per modellare l'architettura delle nostre applicazioni Android. "
+  subtype: presentation
+  speakers: [2]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ" 
+
+-
+  id: 010
+  title: "Testable Android Apps using databinding and MVVM"
+  description: "Il nuovo framework di databinding di Android influirà molto non solo sul modo di scrivere codice ma anche sull'organizzazione delle classi all'interno in un progetto. In questo talk vedremo come, sfruttando il databinding, sia possibile applicare in modo corretto il pattern architetturale MVVM. Usando questo pattern testare una applicazione è più semplice, sfruttando sia i test su device con Espresso che soprattuto i test JUnit su JVM."
+  subtype: presentation
+  speakers: [12]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"    

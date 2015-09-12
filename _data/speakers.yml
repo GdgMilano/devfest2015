@@ -1,67 +1,93 @@
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+  id: 6
+  name: "Stefano"
+  surname: "Baghino"
+  company: "GDG Milano"
+  bio: "Software shaman e general purpose hacker, est. 1984. Ha iniziato col BASIC nel 1991 e qualche anno più tardi è diventato uno sviluppatore professionista, scrivendo codice prevalentemente in C++, Java, JavaScript e più recentemente in Scala; ha lavorato sull’intero stack di applicazioni native, mobili e Web nel contesto di soluzioni per power generation, energy automation e banking."
+
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
+  id: 2
+  name: "Riccardo"
+  surname: "Ciovati"
+  company: "Subito, GDG Milano"
   title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
+  thumbnailUrl: RiccardoCiovati.jpg
+  bio: "Riccardo sviluppa applicazioni Android da più di 5 anni. Attualmente lavora come Android Developer a Subito. Da Aprile 2015 fa parte dell'organizzazione del GDG Milano"
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RiccardoCiovati/posts"}
+    - {name: "twitter", link: "https://twitter.com/rciovati"}
+    - {name: "github", link: "https://github.com/rciovati"}
+
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+  name: "Fausto"
+  surname: "Cipolli"
+  company: "Golang Milano Meetup"
+  bio: "Full Stack Developer e Dottore in Sicurezza dei Sistemi e delle Reti Informatiche, smanettone dall'età di 14 anni alla ricerca perenne di nuove sfide. PHP e JS enthusiast lavoro attualmente per Ibuildings Italia."
+
 - 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  id: 11
+  name: "Alberto"
+  surname: "Coletta"
+  bio: "Alberto Coletta è laureato in Ingegneria Informatica presso il Politecnico di Milano. Attualmente lavora come security consultant e sviluppatore nel team di ricerca e sviluppo di Communication Valley Reply, dove si occupa di diversi progetti di sicurezza informatica. I suoi interessi di ricerca sono principalmente incentrati sulla computer security e, in particolare, sulla piattaforma Android e l'analisi di mobile malware."
+
+- 
+  id: 12
+  name: "Fabio"
+  surname: "Collini"
+  company: "CoseNonJaviste.it"
+  thumbnailUrl: "FabioCollini.png"
+  bio: "Mi occupo di progettazione e sviluppo di applicazioni Android dal 2009, sono founder e blogger di cosenonjaviste.it e coautore della seconda edizione di Android Programmazione Avanzata. Attualmente mi occupo, all’interno dell’acceleratore di startup Nana Bianca di Firenze, dello sviluppo di varie applicazioni disponibili nel Play Store e dell'SDK Android dell'Ad Network instal.com."
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "site", link: "http://www.cosenonjaviste.it/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+FabioCollini/posts"}
+    - {name: "github", link: "https://github.com/fabioCollini"}
+    - {name: "twitter", link: "https://twitter.com/fabioCollini"}
+
+- 
+  id: 9
+  name: "Alberto"
+  surname: "Congiu"
+  company: "GDG Milano"
+  bio: "Alberto parla quattro lingue: Italiano, Inglese, Spagnolo e Javascript. Javascript però è l’unico che testa, quindi di tanto in tanto potrebbe parlare in maniera incomprensibile (non fatelo sentire a disagio al riguardo). Ha rotto il suo snowboard nuovo dopo cinque mesi e, poiché comprarne uno nuovo era troppo caro, ha deciso piuttosto di migliorare la sua velocità sul web."
+
+- 
+  id: 10
+  name: "Paolo"
+  surname: "Dadda"
+  company: "GDG Milano"
+
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  name: "Matteo"
+  surname: "Danelli"
+  company: "GDG Milano"
+  bio: "Matteo è un appassionato di software e di nuove tecnologie. Dopo il liceo si è iscritto a Ingegneria Informatica al Politecnico di Milano dove ha potuto studiare e lavorare alla proprie passioni. E’ un fan di Android, in tutti i suoi aspetti, e non perde occasione di giocare con qualsiasi cosa che abbia il robottino verde sopra. Di recente ha cominciato a interessarsi alla sicurezza, e il suo lavoro di tesi è stato un sistema di Android intelligence. Nel tempo libero si diverte a fotografare il mondo."
+
+- 
+  id: 4
+  name: "Giovanni"
+  surname: "Lela"
+  company: "MeanMilan"
+  title: "Co-Founder @MeanMilan"
+  bio: "Nato nel 1986, a 5 anni trascrivo il mio primo listato, un clone di Arkanoid, nel Commodore 64 di famiglia (sotto l'attenta sorveglianza del padre e dallo zio). Duramente traumatizzato dall'esperienza, non scrivo più una riga di codice fino all'università e nel 2008 comincio a lavorare come web developer, scontrandomi con PHP (CodeIgniter, Drupal, Yii) , Javascript e database SQL per poi scoprire Node.js e MongoDB. Mi piace programmare qualunque cosa, ma specialmente API server NodeJS. Sono anche molto interessato da tutto ciò che è pertinente con testing e automazione."
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/lambrojos"}
+    - {name: "github", link: "https://github.com/lambrojos"}
+
+- 
+  id: 8
+  name: "Omar"
+  surname: "Miatello"
+  company: "GDG Milano"
+  bio: "Omar lavora come sviluppatore Android per Satispay. Nel tempo libero si tiene allenato su progetti con GAE, Python, Kotlin, Firebase e qualunque novità susciti il suo interesse. Una volta era un gamer e trovava anche il tempo per fare sport e guardarsi serie tv, poi ha preso una freccia nel ginocchio..."
+
+- 
+  id: 3
+  name: "Matteo"
+  surname: "Scandolo"
+  company: "MeanMilan"
+  bio: "Ciao, sono Matteo Scandolo, web enthusiast nato nel maggio '86. Lavoro quotidianamente con un team eterogeneo di esperti che collaborano nella creazione di Applicazioni Web. In LinkMe dal 2012 mi occupo principalmente dello sviluppo Javascript Client Side, con grande attenzione al workflow di sviluppo, qualità del codice e del prodotto e testing automatico. Co-founder della community milanese MeanMilan, che si occupa attivamente di tematiche legate allo stack, ho partecipato come speaker a parecchi meetup, ho avuto il piacere di fare due interventi a Codemotion, uno a Milano e uno a Roma, e di contribuire come organizzatore e mentor all'evento milanese di NodeSchool Italy."
+  social: 
+    - {name: "twitter", link: "https://twitter.com/_teone"}
+    - {name: "github", link: "https://github.com/teone"}
