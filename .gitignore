@@ -1,5 +1,6 @@
 ### General ###
 *.lock
+.DS_Store
 
 ### Jekyll ###
 _site/
@@ -11,3 +12,4 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+

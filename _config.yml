@@ -122,7 +122,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizzatori"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -177,7 +177,7 @@ socialLinks:
  - {link: "https://plus.google.com/u/0/b/111537749545250109648/111537749545250109648/posts", icon: "google-plus"}
 # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://www.facebook.com/GDGMilano", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
@@ -199,7 +199,7 @@ blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
