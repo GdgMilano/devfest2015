@@ -11,20 +11,20 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG Milano DevFest 2015"
-email: "devfest@gdg.org.ua"
+email: "infogdgmi@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+baseurl: "/devfest2015"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "gdg-x.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Milano"
 organizerAlternateName: "Google Developer Group Milano"
 organizerDescription: "Il GDG Milano è uno user group indipendente rivolto a sviluppatori, tecnici, studenti e, in generale, ad appassionati di tecnologie informatiche, con un focus in particolare su quelle offerte da Google."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "infogdgmi@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgmilano.org/"
 
@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "Contatti"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:infogdgmi@gmail.com", text: "infogdgmi@gmail.com"}
 # -
 #  title: "FAQ"
 #  links:

@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Milano", description: "GDG Milano - Open and volunteer geek community", link: "http://www.gdgmilano.org/", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Milano", description: "GDG Milano - Open and volunteer geek community", link: "http://www.gdgmilano.org/", imageUrl: "gdg-milano.png"}
 #- 
 #  group: "Co-organizers"
 #  elements: 

@@ -3,7 +3,10 @@
   name: "Stefano"
   surname: "Baghino"
   company: "GDG Milano"
+  thumbnailUrl: "StefanoBaghino.jpg"
   bio: "Software shaman e general purpose hacker, est. 1984. Ha iniziato col BASIC nel 1991 e qualche anno più tardi è diventato uno sviluppatore professionista, scrivendo codice prevalentemente in C++, Java, JavaScript e più recentemente in Scala; ha lavorato sull’intero stack di applicazioni native, mobili e Web nel contesto di soluzioni per power generation, energy automation e banking."
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+StefanoBaghino/posts"}
 
 - 
   id: 2
@@ -23,8 +26,10 @@
   name: "Fausto"
   surname: "Cipolli"
   company: "Golang Milano Meetup"
+  thumbnailUrl: FaustoCipolli.jpg
   bio: "Full Stack Developer e Dottore in Sicurezza dei Sistemi e delle Reti Informatiche, smanettone dall'età di 14 anni alla ricerca perenne di nuove sfide. PHP e JS enthusiast lavoro attualmente per Ibuildings Italia."
-
+  social: 
+    - {name: "site", link: "http://it.linkedin.com/in/faustocipolli"}
 - 
   id: 11
   name: "Alberto"
@@ -48,22 +53,31 @@
   id: 9
   name: "Alberto"
   surname: "Congiu"
+  thumbnailUrl: "AlbertoCongiu.jpg"
   company: "GDG Milano"
   bio: "Alberto parla quattro lingue: Italiano, Inglese, Spagnolo e Javascript. Javascript però è l’unico che testa, quindi di tanto in tanto potrebbe parlare in maniera incomprensibile (non fatelo sentire a disagio al riguardo). Ha rotto il suo snowboard nuovo dopo cinque mesi e, poiché comprarne uno nuovo era troppo caro, ha deciso piuttosto di migliorare la sua velocità sul web."
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AlbertoCongiu/posts"}
 
-- 
+-
   id: 10
   name: "Paolo"
+  thumbnailUrl: "PaoloDadda.jpg"
   surname: "Dadda"
   company: "GDG Milano"
-
+  social: 
+    - {name: "site", link: "http://www.2dweb.it"}
+    - {name: "site", link: "http://www.linkedin.com/pub/paolo-dadda/59/767/72"}
+    - {name: "google-plus", link: "https://plus.google.com/b/101997827525047035149/"}
 - 
   id: 7
   name: "Matteo"
   surname: "Danelli"
   company: "GDG Milano"
+  thumbnailUrl: "MatteoDanelli.jpg"
   bio: "Matteo è un appassionato di software e di nuove tecnologie. Dopo il liceo si è iscritto a Ingegneria Informatica al Politecnico di Milano dove ha potuto studiare e lavorare alla proprie passioni. E’ un fan di Android, in tutti i suoi aspetti, e non perde occasione di giocare con qualsiasi cosa che abbia il robottino verde sopra. Di recente ha cominciato a interessarsi alla sicurezza, e il suo lavoro di tesi è stato un sistema di Android intelligence. Nel tempo libero si diverte a fotografare il mondo."
-
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MatteoDanelli/posts"}
 - 
   id: 4
   name: "Giovanni"
@@ -80,8 +94,10 @@
   name: "Omar"
   surname: "Miatello"
   company: "GDG Milano"
+  thumbnailUrl: "OmarMiatello.jpg"
   bio: "Omar lavora come sviluppatore Android per Satispay. Nel tempo libero si tiene allenato su progetti con GAE, Python, Kotlin, Firebase e qualunque novità susciti il suo interesse. Una volta era un gamer e trovava anche il tempo per fare sport e guardarsi serie tv, poi ha preso una freccia nel ginocchio..."
-
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+OmarMiatello/posts"}
 - 
   id: 3
   name: "Matteo"
