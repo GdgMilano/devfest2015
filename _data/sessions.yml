@@ -60,7 +60,7 @@
   description: "Che cos’è Google Cast? Perché usarlo? Come usarlo? Il talk è un’introduzione alla tecnologia Cast, con alcune linee guida e consigli. Vedremo poi un semplice esempio su come integrare Google Cast all’interno di un’applicazione Android esistente."
   subtype: presentation
   speakers: [7]
-  language: uk
+  language: it
   complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
