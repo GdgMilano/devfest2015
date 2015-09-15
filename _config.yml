@@ -65,11 +65,9 @@ heroButtons:
  - {permalink: "/#tickets", text: "Registrati"}
 
 # About Block
-aboutTitle: "GDG DevFest"
+aboutTitle: "GDG Milano DevFest 2015"
 aboutBlock:
  - {title: "Conferenza", image: "conference.jpg", text: "La DevFest è l’evento GDG più importante dell’anno. Si tratta di un evento proposto da Google stessa e si tiene in tutto il mondo, solitamente nel periodo autunnale. Come dice la parola, la DevFest è prima di tutto una festa, un momento di ritrovo per gli sviluppatori, i professionisti dell’informatica, gli studenti e i tech enthusiast in generale." }
-# - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
