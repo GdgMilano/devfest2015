@@ -66,7 +66,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Kotin: lo Swift di Android"
+  title: "Kotlin: lo Swift di Android"
   description: "Introduzione a Kotlin, un linguaggio moderno, sviluppato da JetBrains (quelli che hanno sviluppato l'IDE su cui è basato Android Studio) che rispetto a Java risulta essere più conciso, versatile e con una migliore gestione degli errori. Il codice è al 100% interoperabile con Java, e può essere usato per scrivere applicazioni native Android o piccoli moduli."
   subtype: presentation
   speakers: [8]
