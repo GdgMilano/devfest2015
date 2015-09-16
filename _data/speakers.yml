@@ -84,6 +84,7 @@
   surname: "Lela"
   company: "MeanMilan"
   title: "Co-Founder @MeanMilan"
+  thumbnailUrl: "GiovanniLela.jpg"
   bio: "Nato nel 1986, a 5 anni trascrivo il mio primo listato, un clone di Arkanoid, nel Commodore 64 di famiglia (sotto l'attenta sorveglianza del padre e dallo zio). Duramente traumatizzato dall'esperienza, non scrivo più una riga di codice fino all'università e nel 2008 comincio a lavorare come web developer, scontrandomi con PHP (CodeIgniter, Drupal, Yii) , Javascript e database SQL per poi scoprire Node.js e MongoDB. Mi piace programmare qualunque cosa, ma specialmente API server NodeJS. Sono anche molto interessato da tutto ciò che è pertinente con testing e automazione."
   social: 
     - {name: "twitter", link: "https://twitter.com/lambrojos"}
