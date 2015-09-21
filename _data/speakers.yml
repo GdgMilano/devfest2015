@@ -104,6 +104,7 @@
   name: "Matteo"
   surname: "Scandolo"
   company: "MeanMilan"
+  thumbnailUrl: "MatteoScandolo.jpg"
   bio: "Ciao, sono Matteo Scandolo, web enthusiast nato nel maggio '86. Lavoro quotidianamente con un team eterogeneo di esperti che collaborano nella creazione di Applicazioni Web. In LinkMe dal 2012 mi occupo principalmente dello sviluppo Javascript Client Side, con grande attenzione al workflow di sviluppo, qualità del codice e del prodotto e testing automatico. Co-founder della community milanese MeanMilan, che si occupa attivamente di tematiche legate allo stack, ho partecipato come speaker a parecchi meetup, ho avuto il piacere di fare due interventi a Codemotion, uno a Milano e uno a Roma, e di contribuire come organizzatore e mentor all'evento milanese di NodeSchool Italy."
   social: 
     - {name: "twitter", link: "https://twitter.com/_teone"}
