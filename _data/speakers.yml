@@ -109,3 +109,30 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/_teone"}
     - {name: "github", link: "https://github.com/teone"}
+
+-
+  id: 14
+  name: "Alessandro"
+  surname: "Di Federico"
+  company: "POuL"
+  bio: "Alessandro Di Federico è uno dottorando al Politecnico di Milano attivo in vari ambiti della sicurezza informatica. Il suo focus principale è attualmente lo sviluppo di nuove tecniche per il reverse engineering automatizzato di binari nativi, finalizzate ad ottenere una rappresentazione di alto livello di un programma in assenza del codice sorgente. Tra i suoi interessi vi è anche lo sviluppo di tecniche di exploiting, di cui ha recentemente parlato a DEF CON e USENIX Security, due delle più importanti conferenze nell'ambito della sicurezza informatica. Si occupa anche di questioni legate alla privacy ed in particolare allo sviluppo di sistemi di comunicazione sicuri. In particolare è uno degli autori di Snake (https://snake.li), una piattaforma di comunicazione, realizzata in HTML5, in cui ogni messaggio è cifrato \"end-to-end\", ovvero in cui neppure il provider del servizio è in gradodi conoscerne il contenuto."
+  social:
+    - {name: "site", link: "https://www.poul.org/"}
+
+-
+  id: 15
+  name: "Giulia"
+  surname: "Pignataro"
+  company: "GDG Torino"
+  bio: "Coming soon"
+  social:
+
+-
+  id: 16
+  name: "Luca"
+  surname: "Pezzolla"
+  company: "GDG Torino"
+  bio: "Coming soon"
+  social:
+
+

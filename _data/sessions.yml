@@ -128,3 +128,25 @@
   complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"    
+
+-
+  id: 011
+  title: "HTTPS: deploy it right!"
+  description: "Ogni sito che si rispetti oggi come oggi deve offrire HTTPS ai suoi utenti, ma nel farlo vanno tenuti in considerazione una serie di aspetti poco noti ai meno esperti. In questo talk vedremo come effettuare un setup di TLS robusto e non vulnerabile ai più recenti attacchi contro SSL/TLS noti. Nello specifico ci occuperemo di come generare un certificato, ottenere una firma da una CA autorevole e configurare un server web nella maniera più appropriata, con il giusto bilanciamento tra compatibilità con browser datati e sicurezza. L'intervento si concluderà con alcune considerazioni sulla sicurezza dell'infrastruttura delle CA attuale e sulle più recenti soluzioni per mitigare le criticalità attuali."
+  subtype: presentation
+  speakers: [14]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 012
+  title: "The secrets to app success"
+  description: "TBA"
+  subtype: presentation
+  speakers: [15,16]
+  language: it
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
