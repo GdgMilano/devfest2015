@@ -143,7 +143,7 @@
 -
   id: 012
   title: "The secrets to app success"
-  description: "TBA"
+  description: "We will explore the design best practices that will help you sketching a successful Android app, through the analysis of frequent ux mistakes that lead to misleading behaviours of your users."
   subtype: presentation
   speakers: [15,16]
   language: it

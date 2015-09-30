@@ -34,8 +34,11 @@
   id: 11
   name: "Alberto"
   surname: "Coletta"
+  thumbnailUrl: AlbertoColetta.png
   bio: "Alberto Coletta è laureato in Ingegneria Informatica presso il Politecnico di Milano. Attualmente lavora come security consultant e sviluppatore nel team di ricerca e sviluppo di Communication Valley Reply, dove si occupa di diversi progetti di sicurezza informatica. I suoi interessi di ricerca sono principalmente incentrati sulla computer security e, in particolare, sulla piattaforma Android e l'analisi di mobile malware."
-
+  social:
+    - {name: "site", link: "http://it.linkedin.com/in/albertocoletta"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AlbertoColetta"}
 - 
   id: 12
   name: "Fabio"
@@ -124,15 +127,15 @@
   name: "Giulia"
   surname: "Pignataro"
   company: "GDG Torino"
-  bio: "Coming soon"
+  bio: "Bio coming soon"
   social:
 
 -
   id: 16
   name: "Luca"
   surname: "Pezzolla"
+  thumbnailUrl: "LucaPezzolla.jpg"
   company: "GDG Torino"
-  bio: "Coming soon"
+  bio: "Bio coming soon"
   social:
-
 

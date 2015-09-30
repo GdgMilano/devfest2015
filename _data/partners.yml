@@ -8,3 +8,8 @@
   group: "Media partners"
   elements: 
     - {name: "CoseNonJaviste", description: "CoseNonJaviste.it", link: "http://www.cosenonjaviste.it/", imageUrl: "cose-nonjaviste.png"}
+
+-
+  group: "Energized By"
+  elements:
+    - {name: "Red Bull", description: "Red Bull", link: "http://www.redbull.com/it/it", imageUrl: "redbull.png"}
