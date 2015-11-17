@@ -34,7 +34,7 @@
   speakers: [3, 4]
   language: it
   complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/qt91rvO_6ZU"
 -
   id: 002
   title: "Go For It"
@@ -43,8 +43,7 @@
   speakers: [5]
   language: it
   complexity: "Beginner" 
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/Fpsf-pLt5Rk"
 -
   id: 003
   title: "From Big Data to Fast Data: Apache Spark"
@@ -53,7 +52,7 @@
   speakers: [6]
   language: it
   complexity: "Intermediate" 
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "https://www.youtube.com/embed/b78e83GayW4"
 -
   id: 004
   title: "Google Cast: Extend your app to the big screen"
@@ -62,8 +61,7 @@
   speakers: [7]
   language: it
   complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/JUkDS9_iMd8"
 -
   id: 005
   title: "Kotlin: lo Swift di Android"
@@ -72,8 +70,7 @@
   speakers: [8]
   language: it
   complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/0xPDg8NXvko"
 
 -
   id: 006
@@ -83,8 +80,7 @@
   speakers: [9]
   language: it
   complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/9N6J-0JXu-4"
 
 -
   id: 007
@@ -95,7 +91,7 @@
   language: it
   complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/MDN7P0MX7Cw"
 
 -
   id: 008
@@ -115,8 +111,8 @@
   speakers: [2]
   language: it
   complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ" 
+  presentation: "https://speakerdeck.com/rciovati/binding-data-with-android-databinding"
+  video: "https://www.youtube.com/embed/-TuqocA0Ej8"
 
 -
   id: 010
@@ -127,7 +123,7 @@
   language: it
   complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"    
+  video: "https://www.youtube.com/embed/KrTNR2om_-I"
 
 -
   id: 011
@@ -138,7 +134,7 @@
   language: it
   complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/3Hv3PGZ84sU"
 
 -
   id: 012
@@ -149,4 +145,4 @@
   language: it
   complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/8CfpGp2x0sA"
